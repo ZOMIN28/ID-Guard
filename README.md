@@ -1,6 +1,8 @@
 # ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification (`TPAMI 2025`)
 
-> **ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification**  [Paper](https://ieeexplore.ieee.org/document/11185226) | [ArXiv](https://arxiv.org/pdf/2409.13349)
+> **ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification**  
+>
+> [Paper](https://ieeexplore.ieee.org/document/11185226) | [ArXiv](https://arxiv.org/pdf/2409.13349)
 
 ## Introduction
 
