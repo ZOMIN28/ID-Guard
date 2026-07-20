@@ -23,8 +23,6 @@ The official PyTorch implementation of the paper  "ID-Guard: A Universal Framewo
 
 Install dependencies in `requirements.txt`.
 
----
-
 ### 2. Dataset
 
 Please download the [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) dataset and organize them as follows:
