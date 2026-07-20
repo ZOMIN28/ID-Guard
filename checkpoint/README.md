@@ -1,0 +1,1 @@
+Download the pretrained model from this [Google drive link](https://drive.google.com/drive/folders/1eYoJGpxHSOWA2DUFkw_Cg7H6WN85SocM?usp=sharing). 

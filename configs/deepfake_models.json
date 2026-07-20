@@ -1,0 +1,18 @@
+{
+    "stargan": {
+        "checkpoint": "checkpoint/target_model/stargan/200000-G.ckpt"
+    },
+    "aggan": {
+        "checkpoint": "checkpoint/target_model/attentiongan/200000-G.ckpt"
+    },
+    "fpgan": {
+        "checkpoint": "checkpoint/target_model/fpgan/200000-G.ckpt"
+    },
+    "relgan": {
+        "checkpoint": "checkpoint/target_model/relgan/G_15000_sn_wb.pth"
+    },
+    "HiSD": {
+        "checkpoint": "checkpoint/target_model/HiSD/gen_00600000.pt",
+        "config": "model/HiSD/configs/celeba-hq_256.yaml"
+    }
+}

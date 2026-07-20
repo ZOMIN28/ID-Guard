@@ -1,0 +1,16 @@
+{
+    "MGDA": {
+        "stargan": 1.0,
+        "aggan": 1.0,
+        "fpgan": 1.0,
+        "relgan": 1.0,
+        "HiSD": 1.0
+    },
+    "KPI": {
+        "stargan": 1.0,
+        "aggan": 10.0,
+        "fpgan": 1.0,
+        "relgan": 10.0,
+        "HiSD": 100.0
+    }
+}

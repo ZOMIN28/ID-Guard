@@ -1,0 +1,4 @@
+{
+    "vggface": "checkpoint/id_model/vggface-9d491dd7c30312.pth",
+    "arcnet": "checkpoint/id_model/arcface_ir_se50.pth"
+}
