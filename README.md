@@ -6,7 +6,7 @@
 
 ## Introduction
 
-ID-Guard is a universal proactive defense framework against facial manipulation. This work is accepted by `TPAMI 2025`.
+The official PyTorch implementation of the paper  "ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification". ID-Guard is a universal proactive defense framework against facial manipulation. This work is accepted by `TPAMI 2025`.
 
 <div align="center">
 <img src="_images/framework.png" width="95%">
