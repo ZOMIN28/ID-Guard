@@ -144,7 +144,7 @@ We sincerely thank the authors for making their code publicly available.
 If you find this project useful, please consider citing our paper.
 
 ```bibtex
-@article{2025idguard,
+@article{qu2026idguard,
   author={Qu, Zuomin and Lu, Wei and Luo, Xiangyang and Wang, Qian and Cao, Xiaochun},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification}, 
